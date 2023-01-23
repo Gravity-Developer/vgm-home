@@ -1,0 +1,15 @@
+.line {
+    height: 1px;
+    background-color: #023436;
+    position: relative;
+    width: 100vw;
+    
+
+}
+.line-blurred {
+    height: 1px;
+    background-color: #023436;
+    filter: blur(3px);
+    width: 100vw;
+
+}

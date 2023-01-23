@@ -1,0 +1,9 @@
+.scrollLink {
+    color:#e0e4e4;
+    padding-top: 2ch;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E8E9EA;
+}
