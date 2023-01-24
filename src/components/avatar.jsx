@@ -5,16 +5,11 @@ export function TestAvatar(){
     const navigate = useNavigate();
     return (
         <div className="avatar-container">
-        <img className="avatar" src="https://xsgames.co/randomusers/avatar.php?g=male" height={"100vh"} width={"100vh"}/>
+        <img className="avatar" src="https://xsgames.co/randomusers/avatar.php?g=male" height={"40px"} width={"40px"}/>
         <div className="button-container">
             <div className="spacer"></div>
 
-            <img src={loginbutton} height={"50vh"} onClick={()=>{
-
-                console.log("Login")
-                navigate("/about")
-
-            }} />
+            <button className="login-button">Login</button>
         
         </div>
     </div>

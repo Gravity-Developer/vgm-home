@@ -15,9 +15,22 @@
 
 
 }
-
+.discover-button {
+    border-radius: 7px;
+    /*padding:20px;*/
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 2vh;
+    background-color:#6270cb;
+    color:#fffdf9;
+    height:25%;
+    border: none;
+    
+}
 .ad-container {
-    flex: 15;
+    flex: 1;
     display: flex;
     flex-direction: column;
     background-color: transparent;

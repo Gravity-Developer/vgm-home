@@ -9,6 +9,7 @@ export function Main(){
             <div className="spacer"></div>
             <div className="spacer"></div>
             <div className="ad-container">
+                <div className="spacer"></div>
                 <div className="ad-image-container">
                     <div className="spacer"></div>
                     <div className="text-container">
@@ -18,13 +19,14 @@ export function Main(){
                             <div className="text-container">
                                 <h1>New Year, New You!</h1>
                                 <p>Find out new diabetes solutions <br /> to stabalize your future</p>
-                                <img src={DiscoverNowButton} onClick={()=>{return}} width={"50%"} />
+                                <button className="discover-button">Discover Now!</button>
                             </div>
                             <div className="spacer"></div>
                             <div className="spacer"></div>
                             <div className="spacer"></div>
 
                         </div>
+                        <div className="spacer"></div>
                         <div className="spacer"></div>
                     </div>
                     <div className="spacer"></div>

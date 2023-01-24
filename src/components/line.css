@@ -9,7 +9,7 @@
 .line-blurred {
     height: 1px;
     background-color: #023436;
-    filter: blur(3px);
+    filter: blur(1px);
     width: 100vw;
 
 }

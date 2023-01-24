@@ -21,7 +21,7 @@ export function Content(){
                 </div>
                 <div className="spacer"></div>
                 <div className="spacer"></div>
-
+                
 
                 <div className="navigation-hyper">
 
