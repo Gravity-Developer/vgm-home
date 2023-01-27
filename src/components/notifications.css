@@ -1,0 +1,40 @@
+.navbar-notifications {
+    flex: 1;
+    flex-direction: row
+}
+.container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.spacer {
+    flex: 1;
+    display: flex;
+    position: relative;
+}
+.notification-button {
+    /*padding:20px;*/
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: .5vh;
+    padding-bottom: .5vh;
+    margin-bottom: 2vh;
+    margin-left: 1.5vw;
+    background-color:#6270cb;
+    color:#fffdf9;
+    height:6vh;
+    border: none;
+    white-space: nowrap;
+}
+.notification-button-container {
+    white-space: nowrap;
+    display: flex;
+    position: relative;
+    flex: 1;
+    align-items: center;
+    padding-top: 1ch;
+    height: 4vh;
+}

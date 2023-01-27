@@ -36,6 +36,8 @@ export function Content(){
                 </div>
                 <div className="spacer"></div>
                 <div className="spacer"></div>
+                <div className="spacer"></div>
+
 
 
             </div>
@@ -61,6 +63,8 @@ export function NavbarContent(){
                 <TestAvatar />
 
                 <div className="spacer"></div>
+                <div className="spacer"></div>
+
 
 
             
